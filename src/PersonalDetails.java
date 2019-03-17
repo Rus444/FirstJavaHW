@@ -5,6 +5,7 @@ public class PersonalDetails {
     public static String address="231 Cadogan Street, London, SW1X 3PF";
     public static String dob="29 February 1998";
 
+    //This method will print name, age, address and date of birth
     static void personalDetails(){
         System.out.println("Name: " +name);
         System.out.println("Age: " +age);
